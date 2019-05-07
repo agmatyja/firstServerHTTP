@@ -1,0 +1,15 @@
+{
+  "name": "myFirstServer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "firstServerHTTP.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Agnieszka Matyja",
+  "license": "ISC",
+  "dependencies": {
+    "stat-mode": "^0.3.0"
+  }
+}
